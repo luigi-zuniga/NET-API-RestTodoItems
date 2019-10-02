@@ -2,11 +2,11 @@
 
 API REST con lista de tareas , recomendable utilizar post sobre la API`https://localhost:5001/api/TodoItems`
 
-#INSTALACION DOCKER / MAC
+# INSTALACION DOCKER / MAC
 
 Descargar la version más reciente de docker, [click aqui](https://store.docker.com/editions/community/docker-ce-desktop-mac?tab=description).
 
-#DOWNLOAD SQL SERVER
+# DOWNLOAD SQL SERVER
 `docker pull mcr.microsoft.com/mssql/server`
 
 **Lanzar Docker Image**
