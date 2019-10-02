@@ -12,7 +12,7 @@ Descargar la version más reciente de docker, [click aqui](https://store.docker.
 **Lanzar Docker Image**
 `docker run -e 'ACCEPT_EULA=Y' -e 'SA_PASSWORD=Password123' -p 1433:1433 -d mcr.microsoft.com/mssql/server:2017-latest`
 
-##Parametros
+## Parametros
 
 **-d**
 This optional parameter launches the Docker container in daemon mode. This means that it runs in the background and doesn’t need its own Terminal window open. You can omit this parameter to have the container run in its own Terminal window.
